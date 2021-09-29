@@ -1,0 +1,163 @@
+3.0
+r44
+-Rebased to 11.0.4.4
+-Added option to hide the data saver statusbar icon
+-Added option to force show weather on AOD/ambient 
+-Re-added support for 8T series
+--------------------
+2.0
+r43
+-Rebased to 11.0.2.2
+-Option to set custom colors for horizon lights
+-Option for Horizon Lights notification reminder. This plays the horizon lights animation every minute if you have unread notifications
+-Option to set a repeat count on the Horizon Lights animation
+-Option to set the repeat mode on the Horizon Lights animation
+-Option to set max number of notification icons. Helpful if using center clock
+-Option to hide loud volume warning popup
+-Option to unlink ring & notification volume
+-Option for screen off animations (None/CRT/Scale)
+-Added Cyberpunk theme from 8T
+-Probably more I have forgotten
+--------------------
+1.0
+-r42
+-Added option to set horizon lights color the the color of the notification
+-Updated regular OP8 files to 10.5.11.IN21BA
+-First public release
+--------------------
+-r41
+-Fix about phone for regular OnePlus 8 users
+-Fix crashes if clock was hidden
+-Rebased to 10.5.13 BA
+--------------------
+-r40
+-Option to set custom statusbar icon colors
+--------------------
+r39
+-Option to move volume panel to right hand side
+-Option for statusbar brightness control
+--------------------
+r38
+-Option to unlink notification/ringer volume
+--------------------
+r37
+-Rebased to August keys base
+-Added OnePlus8 support
+-Added option for statusbar clock positions
+-Added option for double tap statusbar to sleep
+--------------------
+r36
+-Option to disable statusbar peek
+-Option to set text/button color of notifications
+--------------------
+r35
+-Option to set background color of notifications
+--------------------
+r34
+-Option to disable smart replies in notifications
+--------------------
+r33
+-Option to merge notification sections (remove "other notifications" header)
+--------------------
+r32
+-Rebased to 10.5.11_BA
+-Option to force expanded notifications
+--------------------
+r31
+-Option to add/customize QS RAM bar
+--------------------
+r30
+-Option to customize QS background color
+--------------------
+r29
+-Rebased to 10.5.10_BA
+-Option to customize QS scrim color
+-Option to customize lockscreen scrim color
+--------------------
+r28
+-Option to animate QS tiles on expand
+-Option to animate QS tiles on click
+--------------------
+r27
+-Option to hide quicksettings date
+-Option to hide quicksettings statusbar icons
+--------------------
+r26
+-Option for quick pulldown
+-Option for smart pulldown
+--------------------
+r25
+-Option for QS background blur
+--------------------
+r24
+-Option for QS tile vibration
+--------------------
+r23
+-Fix crash when clicking on mobile data detail view QS
+--------------------
+r22
+-Option to show QS detail view
+--------------------
+r21
+-Option to set Oreo style quicksettings icons
+-Option to set dark style quicksettings icons
+--------------------
+r20
+-Option to vibrate when expanding QS
+--------------------
+r19
+-Option to set album art blur amount
+--------------------
+r18
+-Option to set custom fingerprint icon colours (may affect fingerprint performance if set to certain colours)
+--------------------
+r17
+-Option to hide lockscreen shortcuts
+--------------------
+r16
+-Option to hide lockscreen album art
+--------------------
+r15
+-Option to hide lockscreen statusbar
+--------------------
+r14
+-Option to hide lockscreen clock
+-Option to randomize lockscreen keypad
+--------------------
+r13
+-Option to set QS tile layout (rows/columns/compact QS)
+--------------------
+r12
+-Updated RiCE app for last tweak
+--------------------
+r11
+-Option to mute notifications if screen on
+--------------------
+r10
+-Option to automatically turn torch off when turning screen on
+--------------------
+r9
+-Option to disable power menu on lockscreen
+-Option to toggle torch with power key when screen off
+--------------------
+r8
+-Missing tweak in changelog
+--------------------
+r7
+-Option to enable/disable waking device when USB connected
+-Updated RiCE for OnePlus 8 series
+-Initial telegram test release
+--------------------
+r6
+-Added RENOVATE version to About phone menu
+-Added back "Navigation gestures (Bottom)" that OnePlus decided to remove
+-Modified the app manager to allow disabling of system apps
+-Modified screenshots to save as PNG
+-Lauching camera from lockscreen shortcuts or double press power launches default camera, rather than being hard coded to OnePlus Camera.
+-Extra remap options if using the standard navigation bar (launch camera, kill foreground app, screenshot, launch custom app, launch previous app, toggle torch)
+-Option to allow screenshots in secure windows (incognito windows/banking apps)
+-Option to allow 180 degree rotation (phone upside down)
+-Option to remove the keyboard selection button when keyboard is open
+--------------------
+r5
+-Module structure
