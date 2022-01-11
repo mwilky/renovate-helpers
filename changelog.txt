@@ -1,2 +1,34 @@
 1.0
 -Initial Pixel 6 Pro release
+
+All the following are controllable via the included RiCE Tweaks app.
+By default everything is as it is on the stock ROM.
+
+- Option to allow screenshots in secure apps.
+- Option to toggle flashlight with long press power when sceen off.
+- Option to automatically turn off the flashlight when turning screen on.
+- Option for statusbar clock positions (left/right/hidden).
+- Option to allow 180 degree rotation (upside down).
+- Option to show seconds in statusbar clock.
+- Option to disable power menu when device is locked.
+- Option for quick pulldown (go straight to fully expanded quicksettings).
+- Option for smart pulldown (go straight to fully expanded quicksettings if no notifications).
+- Option to set custom colors for statusbar icons.
+- Option to set custom colors for quicksetting statusbar icons.
+- Option to set custom colors for lockscreen statusbar icons.
+- Option to randomize the lockscreen keypad for pin unlock
+- Option for silent notifications whilst screen is on
+- Option to hide the statusbar on lockscreen
+- Option to hide the shortcuts at the bottom of lockscreen
+- Option to enable vibration when clicking on quicksetting tiles
+- Option to force expand all notifications
+- Option to put device to sleep when double-tapping statusbar
+- Option to set the maximum number of notification icons in the statusbar
+- Option to disable quicksetting pulldown when the device is locked.
+
+Certain tweaks are "premium/subscription" only. These are handled via either a small monthly subscription or a one time payment.
+These are all labelled in the RiCE Tweaks app.
+
+The following are tweaks to the OS that are included by default and not controlled by the RiCE Tweaks app.
+
+- Modified the SettingsGoogle.apk to allow system apps to be disabled.
