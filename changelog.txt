@@ -1,3 +1,7 @@
+2.0
+
+- Updated to January sq1d.220105.007 base
+
 1.0
 -Initial Pixel 6 Pro release
 
