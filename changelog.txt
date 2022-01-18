@@ -1,3 +1,7 @@
+2.1
+
+- Added option to disable the two-lined clock on lockscreen/AOD (Android 12L feature)
+
 2.0
 
 - Updated to January sq1d.220105.007 base
