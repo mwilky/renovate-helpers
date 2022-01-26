@@ -1,3 +1,10 @@
+2.2
+
+- Added option to disable hide the build number in the quicksettings footer
+- Added option to set the brightness slider position (default/below quicksetting/hidden)
+- Added option to show the brightness slider in the quick quicksettings panel
+- Removed bits of left over debugging
+
 2.1
 
 - Added option to disable the two-lined clock on lockscreen/AOD (Android 12L feature)
