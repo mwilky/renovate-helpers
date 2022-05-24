@@ -1,3 +1,41 @@
+5.0
+
+- Updated to May builds
+- Added option for notification text/icon colors
+- Added option for statusbar brightness control
+- Custom quicksetting column count now applies in the customizer screen
+- Disable quicksettings on lockscreen tweak now applies when pulling down from the screen rather than the statusbar
+- Disable quicksettings on lockscreen tweak now allows quicksetting pulldown, but the tiles are not clickable
+- Blocking access to power menu on lockscreen tweak now hides the power button in the quicksettings footer
+- Blocking access to power menu on lockscreen tweak now applies when using power + vol up key for power menu
+- Fixed the chance hidden clock could show again after hiding statusbar icons
+
+4.0
+
+- Updated to April builds
+- Added option to hide statusbar icons
+- If using right hand side clock receiving a heads up notification will no longer hide the clock
+- Apply max notifications tweak to AOD notification count
+- Hiding battery icon will not hide percentage text. This can be removed separately.
+
+3.0
+
+- Updated to February builds
+-Added initial support for the Android 12L beta. As apktool hasn't been updated to support Android 12L yet, the 12L features are minimal. Please don't report things not working as I am already aware of it. I wasn't going to include support until everything had been ported but I thought as I have already done bits, why not share it.
+- Option to select different quicksettings icon style (stock, circle with no label, square with no label)
+The circle and square styles I have tried to get looking as close to "pre Android 12" as possible. I am still looking at bringing back the label but it is a big change.
+- Option to set number of quicksetting columns
+- Option to set number of quicksetting rows
+- Option to set number of quick quicksetting rows
+Depending on which style you choose, I set defaults and different maximum/minimum values. For example stock style tiles I don't allow more than 4 columns as things start to look ugly.
+- Option to enable outline on quicksetting tiles
+- Option to set the width of quicksetting tile outline
+- Option to set the corner radius of quicksetting tile outline (stock style or square only)
+- Option to set the color of quicksetting tile outline
+- Option to link quicksettings outline color to system accent colour (premium only)
+-Fixed RiCE app not detecting license and ROM version on fresh app install
+All the quicksettings tile tweaks work without requiring a reboot as it is all controlled in code, not just resource overlaying.
+
 2.2
 
 - Added option to disable hide the build number in the quicksettings footer
