@@ -1,3 +1,14 @@
+6.0
+
+-Rebased to June base
+-Added new QS Icon style (icons with no background)
+-Option to set QS tile corner radius individually for both Active and Inactive states
+-Option to set QS tile outline color individually for both Active and Inactive states
+-Option to show QS tile labels in quick quicksettings view
+-Option to show QS tile secondary labels in quick quicksettings view
+-Added transition animation to QS tile outline
+-Added transition animation to QS tile secondary label when expanding for quick quicksettings
+
 5.0
 
 - Updated to May builds
