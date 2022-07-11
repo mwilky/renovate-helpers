@@ -1,3 +1,9 @@
+7.0
+
+-Rebased to July base
+-Added back NFC tile
+-Skip checking SystemUI Privacy observer permission as this can cause a fatal bootlop on rare occasions
+
 6.0
 
 -Rebased to June base
